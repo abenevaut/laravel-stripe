@@ -1,7 +1,7 @@
 {
     "name": "abenevaut/laravel-stripe",
     "type": "library",
-    "description": "Stripe API SDK",
+    "description": "Laravel Stripe API SDK",
     "keywords": [
         "laravel",
         "stripe",
